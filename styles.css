@@ -1,0 +1,60 @@
+.main-container {
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+	display: flex;
+	flex-direction: column;
+}
+
+.header-container {
+	background-color: white;
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 40px;
+	display: block;
+}
+
+.header {
+	background-color: white;
+	color: black;
+	text-align: left;
+	font-size: 50px;
+	font-family: serif;
+	display: flex;
+	margin-bottom: 40px;
+}
+
+.header-text {
+	color: gray;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	display: flex;
+}
+
+.menu-header-container {
+	margin-left: 70px;
+	margin-right: 90px;
+	border-bottom: solid;
+	display: flex;
+}
+
+.menu-header {
+	margin-top: 20px;
+	font-family: serif;
+	font-size: 30px;
+	color: black;
+	margin-left: 1px;
+	margin-right: 1px;
+	margin-top: 70px;
+	padding-bottom: 15px;
+}
+
+/*
+.menu-container {
+	margin-left: 70px;
+	margin-right: 90px;
+	display: flex;
+	margin-top: 40px;
+	flex-direction: row;
+}
